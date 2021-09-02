@@ -28,7 +28,7 @@ def save_info():
     file.close()
 
 root = Tk()
-root.title('reading club app')
+root.title('TSPA app')
 root.geometry('500x350')
 root.resizable(False, False)
 tree1 = ttk.Treeview(root)
